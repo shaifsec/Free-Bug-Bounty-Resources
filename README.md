@@ -39,11 +39,14 @@ Write a blog, create a video, share a lab, or mentor someone who’s just starti
 Together, we can build a community that’s **driven by curiosity, collaboration, and ethical intent**.
 
 ---
-## ⭐ Follow Me on GitHub
+## 🔗 Follow Me for More Insights
 
-If you find my work helpful, consider following me on GitHub to stay updated with new **free cybersecurity resources**, **projects**, and **tools**.
+If you enjoyed this and want to learn more about  
+**Bug Bounty, Web Security, and Ethical Hacking**,  
+follow me for regular updates, free learning materials, and real-world insights.
 
-👉 **[Follow Shaif Ali on GitHub](https://github.com/shaifsec)** 
+👉 **[Follow Shaif Ali on GitHub](https://github.com/shaifsec)**  
+Let’s secure the web together — one bug at a time. 🐞💻
 
 
 
