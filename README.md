@@ -39,6 +39,13 @@ Write a blog, create a video, share a lab, or mentor someone who’s just starti
 Together, we can build a community that’s **driven by curiosity, collaboration, and ethical intent**.
 
 ---
+## ⭐ Follow Me on GitHub
+
+If you find my work helpful, consider following me on GitHub to stay updated with new **free cybersecurity resources**, **projects**, and **tools**.
+
+👉 **[Follow Shaif Ali on GitHub](https://github.com/shaifsec)** 
+
+
 
 > “Knowledge grows when shared — and cybersecurity gets stronger when we learn together.” 🛡️
 
